@@ -1,0 +1,111 @@
+* {
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+}
+body{
+	color:#6c6c6c;
+	line-height: 20px;
+	font-size: 18px;
+	font-family: arial;
+}
+/*end */
+.theme-color {
+	background-color: #03a9f4;
+}
+.nav-item i{
+	color: #a3912e;
+}
+/*end header*/
+.button-one{
+	color: white;
+	background-color: #191618;
+}
+.button-2{
+	color: white;
+	background-color:#e2cd70;
+}
+/*end slider*/
+/*just foot*/
+.just-foot{
+	 background: url(../images/just-food-bg.jpg) no-repeat center / cover;
+	 padding: 100px 0; 
+}
+.book-now h5 {
+    border: 2px solid #c9a131;
+    padding:10px 30px;
+    background-color: #eff1f1;
+    text-decoration: none;
+    width:200px;
+}
+.book-now h5:hover{
+    background-color:#c9a131;
+    color:red;
+    text-decoration: none;
+}
+/*end just-foot*/
+.fine-area{
+	background: url(../images/ingrids.png) no-repeat center / cover;
+	padding: 100px 0; 
+}
+.fine-text{
+	background-color:rgb(0,0,0,.7);
+	color: white;
+	padding: 80px;
+}
+/*end fine area*/
+/*end right foot*/
+/*right foot*/
+.right-text{
+	border-bottom: 2px solid #d6ba6b;
+}
+.item-and-price h4{
+	color: #cc9900;
+}
+.item-and-price h5{
+	color:  #cc9900;
+}
+.item-and-price{
+	background-color: #eef2f2;
+}
+footer.footer.py-5 {
+    /* display: none; */
+    width: 96%;
+    margin-left: 18px;
+}
+/*end right foot*/
+.Reviews-area {
+	background:url(../images/review.jpg) no-repeat center/cover;
+	padding: 100px 0;
+}
+.singel-reviews{
+	background-color:rgb(0,0,0,.7);
+	color: white;
+	padding: 80px;
+	/*opacity: .7;*/
+}
+/*end reviews area*/
+.right-food {
+	margin-top: 15px;
+ }
+/*footer*/
+.footer{
+	background-color: #191919;
+}
+.footer h4{
+	color:white;
+}
+.footer p{
+	color: white;
+}
+.footer  i{
+	color: #fbfbfb;
+}
+button.btn.btn-outline-dark {
+    background-color: white;
+    opacity: 0.7;
+    margin: 10px;
+    color: black;
+}
+/* end css */
